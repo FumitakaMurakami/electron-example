@@ -17,9 +17,9 @@ module.exports = {
           oneClick: false,
           allowToChangeInstallationDirectory: true,
         },
-        /* mac: {
+        mac: {
           icon: "./resource/LEicon.png",
-        }, */
+        },
       },
     },
   },
