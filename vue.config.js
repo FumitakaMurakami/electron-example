@@ -13,6 +13,13 @@ module.exports = {
             },
           ],
         },
+        nsis: {
+          oneClick: false,
+          allowToChangeInstallationDirectory: true,
+        },
+        /* mac: {
+          icon: "./resource/LEicon.png",
+        }, */
       },
     },
   },

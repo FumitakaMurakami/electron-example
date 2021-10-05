@@ -1,34 +1,41 @@
 # electrom-example2
 
-## Project setup
+## パッケージインストール
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Vue クライアント立ち上げ
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Vue コンポーネントビルド
+
 ```
 npm run build
 ```
 
-### Run your unit tests
+### Electron クライアント立ち上げ
+
 ```
-npm run test:unit
+npm run　electron:serve
 ```
 
-### Run your end-to-end tests
+### Electron ビルド
+
 ```
-npm run test:e2e
+npm run electron:build
 ```
 
 ### Lints and fixes files
+
 ```
 npm run lint
 ```
 
 ### Customize configuration
+
 See [Configuration Reference](https://cli.vuejs.org/config/).
